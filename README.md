@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/arshnehal11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arshnehal11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arsh-nehal-373794343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsh-nehal-373794343" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arshnehal-48320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arshnehal-48320" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ArshNehal-48320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arshnehal-48320" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/holy_unity_79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="holy_unity_79" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arshnehal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arshnehal" height="30" width="40" /></a>
 </p>
