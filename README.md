@@ -1,5 +1,3 @@
-![logo](![pexels-pixabay-270632](https://github.com/user-attachments/assets/3d3ecf2c-504b-40f7-aa2c-98c5f09f136d)
-)
 <h3 align="center">Hi there I am Arsh Nehal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshnehal&label=Profile%20views&color=0e75b6&style=flat" alt="arshnehal" /> </p>
