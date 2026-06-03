@@ -10,6 +10,6 @@
 <a href="https://www.youtube.com/c/arsh_nehal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arsh_nehal" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshnehal&show_icons=true&locale=en" alt="arshnehal" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshnehal&" alt="arshnehal" /></p>
