@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arsh</h1>
 <h3 align="center">I am in 5 class and I am 9 year old kid and I am intrested to learn technology I am learning python I have created 4 html,css and js projects using youtube videos and ai.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arshnehal&label=Profile%20views&color=0e75b6&style=flat" alt="arshnehal" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arshnehal" alt="arshnehal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
